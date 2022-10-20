@@ -2,7 +2,7 @@
 
 /**
  *
- *  ** main - a program that prints _putchar, followed by a new line
+ *  ** main - check description
  *
  *   ** Description: it prints the word _putchar
  *
