@@ -2,7 +2,7 @@
 
 /**
  *
- *  ** main - Check description
+ *  ** main - prints _putchar, followed by a new line
  *
  *   ** Description: it prints the word _putchar
  *
